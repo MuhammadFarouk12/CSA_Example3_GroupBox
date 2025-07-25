@@ -2,4 +2,5 @@
 
 ### Here is the algorithim:
 1. [x] Adding the interface
-2. [] Adding the logic
+2. [x] Adding the logic
+3. [x] Done
